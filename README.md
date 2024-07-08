@@ -39,18 +39,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Deployment
+### Deployment
 https://inventory-management-rosy.vercel.app/
 
-Screenshots
-![inventary](https://github.com/monikaa06/Inventory-asset-management-tool-frontend/assets/148076194/a1cf6c88-ac27-43cb-a50e-6ea5b8d5b320)
-
-### Deployment
-
-https://goshoppingcartapp.netlify.app/
-
 ## Screenshots
-![goshoppingcart](https://github.com/monikaa06/Shopping-Cart-Application-using-Redux/assets/148076194/3df73dc7-0975-4e1a-a6be-2e5eaf2afac5)
+![inventary](https://github.com/monikaa06/Inventory-asset-management-tool-frontend/assets/148076194/a1cf6c88-ac27-43cb-a50e-6ea5b8d5b320)
 
 ## Learn More
 
